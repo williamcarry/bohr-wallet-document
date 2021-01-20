@@ -16,7 +16,7 @@ Please repeat the new password: **********
 ```
 ## 配置
 
-### [https://github.com/BOHRweb/BoHr/blob/main/bohr-core/config/bohr.properties](config/bohr.properties)
+### [https://github.com/BOHRweb/BoHr/blob/main/bohr-core/config/bohr.properties](https://github.com/BOHRweb/BoHr/blob/main/bohr-core/config/bohr.properties)
 
 * RESTful-API  
     在线地址: [http://mainnetapi.bohrweb.org](http://mainnetapi.bohrweb.org)
@@ -36,7 +36,7 @@ api.listenPort = 5391
 api.username = YOUR_API_USERNAME
 api.password = YOUR_API_PASSWORD
 ```
-#### [https://github.com/BOHRweb/BoHr/blob/main/bohr-core/config/ipfilter.json](config/ipfilter.json)
+#### [https://github.com/BOHRweb/BoHr/blob/main/bohr-core/config/ipfilter.json](https://github.com/BOHRweb/BoHr/blob/main/bohr-core/config/ipfilter.json)
 * 配置IP过滤器,默认可不填
 ```javascript
 {

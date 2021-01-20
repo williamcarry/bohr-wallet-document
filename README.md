@@ -10,7 +10,7 @@ Please repeat the new password: **********
 ```
 ## Configuration
 
-### [https://github.com/BOHRweb/BoHr/blob/main/bohr-core/config/bohr.properties](config/bohr.properties)
+### [https://github.com/BOHRweb/BoHr/blob/main/bohr-core/config/bohr.properties](https://github.com/BOHRweb/BoHr/blob/main/bohr-core/config/bohr.properties)
 
 * RESTful-API  
     online: [http://mainnetapi.bohrweb.org](http://mainnetapi.bohrweb.org)
@@ -30,7 +30,7 @@ api.listenPort = 5391
 api.username = YOUR_API_USERNAME
 api.password = YOUR_API_PASSWORD
 ```
-#### [https://github.com/BOHRweb/BoHr/blob/main/bohr-core/config/ipfilter.json](config/ipfilter.json)
+#### [https://github.com/BOHRweb/BoHr/blob/main/bohr-core/config/ipfilter.json](https://github.com/BOHRweb/BoHr/blob/main/bohr-core/config/ipfilter.json)
 
 ```javascript
 {
